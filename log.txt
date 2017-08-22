@@ -1,0 +1,12 @@
+spotify-this-song lets
+Artist(s): William Singe 
+Album: Lets Get Married
+Song Name: Lets Get Married
+Preview URL: https://p.scdn.co/mp3-preview/70c629225c40473ca0c74e2abb76a18ba37cd5b4?cid=236aa6adbad84f4e96831b35676ee2ce
+
+spotify-this-song 22
+Artist(s): Taylor Swift 
+Album: Red (Deluxe Edition)
+Song Name: 22
+Preview URL: No preview found... Sorry.
+
